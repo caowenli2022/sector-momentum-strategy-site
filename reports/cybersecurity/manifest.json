@@ -1,0 +1,25 @@
+{
+  "sector": "网络安全",
+  "asof": "2026-09-14",
+  "members": 30,
+  "ranked": 27,
+  "excluded": [
+    {
+      "code": "300202",
+      "name": "聚龙股份",
+      "reason": "No value to decode"
+    },
+    {
+      "code": "300379",
+      "name": "东方通",
+      "reason": "No value to decode"
+    },
+    {
+      "code": "300297",
+      "name": "蓝盾股份",
+      "reason": "No value to decode"
+    }
+  ],
+  "scope": "人工扩展候选池，不是全行业名单",
+  "scoring_version": "trend_volume_v2"
+}
