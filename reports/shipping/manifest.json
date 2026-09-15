@@ -1,0 +1,26 @@
+{
+  "sector": "港口航运",
+  "asof": "2026-09-14",
+  "members_selected_at": "2026-09-15T12:03:18",
+  "scope": "研究用人工扩展候选池，不是全行业名单；按当前候选名单观察最近收盘，非历史选股回测",
+  "members": 30,
+  "ranked": 28,
+  "excluded": 2,
+  "benchmark_codes": [
+    "601919",
+    "601872",
+    "600026",
+    "601018",
+    "601298"
+  ],
+  "weights": {
+    "relative20": 0.3,
+    "relative5": 0.1,
+    "trend": 0.25,
+    "stability": 0.15,
+    "volume_price": 0.2
+  },
+  "min_amount20": 30000000,
+  "scoring_version": "trend_volume_v2",
+  "mode": "research_only"
+}
