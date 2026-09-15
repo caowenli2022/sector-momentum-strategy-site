@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-15",
+  "quote_time_min": "11:38:36",
+  "quote_time_max": "11:39:34",
+  "version": "专业版_v10",
+  "sectors": 62,
+  "ranked_sectors": 59,
+  "top_candidate": "航运港口",
+  "history_errors": {
+    "000627": "股票 000627 所有数据源均失败: sina: RuntimeError(\"股票 000627（新浪） 拉取失败（重试 1 次）: JSONDecodeError('No value to decode', position=position_marker(offset=0,line=1,column=0,text_after=True), severity='error')\")"
+  },
+  "price_basis": "后续复权涨跌比例锚定原快照最后收盘；盘中按昨收比率衔接",
+  "quote_source": "https://qt.gtimg.cn",
+  "count_scope": "策略自定义成分股，不是全市场行业或概念板块全部股票",
+  "note": "数量均按策略自定义成分股统计，不是市场板块全部股票。涨停数量指快照时最新价等于行情源当日涨停价（不含仅盘中触及后打开）；缺少行情或涨停价时显示空缺，已知涨停数量仅统计可判定股票。盘中RS20排序；展示趋势、产业链去重与v10宽度过滤，未运行概率否决及账户交易状态，不等同买入信号。"
+}
