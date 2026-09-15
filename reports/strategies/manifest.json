@@ -1,0 +1,37 @@
+{
+  "asof": "11:38:36—11:39:34",
+  "date": "2026-09-15",
+  "intraday": true,
+  "zero_fee_checked": true,
+  "sector_count": 62,
+  "probability_fallback": true,
+  "versions": [
+    {
+      "version": "综合版_v1",
+      "start": "2018-01-01",
+      "nav": 18452041.05113759,
+      "position": "现金",
+      "daily_return": 0.0,
+      "signal": "CASH",
+      "html": "comprehensive.html"
+    },
+    {
+      "version": "专业版_v10",
+      "start": "2024-10-01",
+      "nav": 6469152.487316577,
+      "position": "现金",
+      "daily_return": 0.0,
+      "signal": "CASH",
+      "html": "professional.html"
+    },
+    {
+      "version": "熊市版_v5",
+      "start": "2018-01-01",
+      "nav": 8787254.19225955,
+      "position": "现金",
+      "daily_return": 0.0,
+      "signal": "CASH",
+      "html": "bear.html"
+    }
+  ]
+}
