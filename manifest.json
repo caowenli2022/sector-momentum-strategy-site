@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-09-16T15:51:33",
+  "built_at": "2026-09-16T16:31:00",
   "reports": {
     "comprehensive": {
       "date": "2026-09-15",
@@ -21,6 +21,11 @@
       "status": "收盘",
       "source": "/Users/caowenli/sector_momentum_strategy/output_stock_agent/CCL_20260914"
     },
+    "ccl_sector": {
+      "date": "2026-09-14",
+      "status": "收盘",
+      "source": "/Users/caowenli/sector_momentum_strategy/output_stock_agent/CCL_SECTOR_20260914"
+    },
     "shipping": {
       "date": "2026-09-14",
       "status": "收盘",
@@ -32,5 +37,5 @@
       "source": "/Users/caowenli/sector_momentum_strategy/output_stock_agent/CYBERSECURITY_20260914"
     }
   },
-  "build_version": "20260916155133"
+  "build_version": "20260916163100"
 }
