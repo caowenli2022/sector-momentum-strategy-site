@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-15",
-  "quote_time_min": "11:38:36",
-  "quote_time_max": "11:39:34",
+  "date": "2026-09-16",
+  "quote_time_min": "11:55:15",
+  "quote_time_max": "11:56:15",
   "version": "专业版_v10",
   "sectors": 62,
   "ranked_sectors": 59,
-  "top_candidate": "航运港口",
+  "top_candidate": "电子布",
   "history_errors": {
     "000627": "股票 000627 所有数据源均失败: sina: RuntimeError(\"股票 000627（新浪） 拉取失败（重试 1 次）: JSONDecodeError('No value to decode', position=position_marker(offset=0,line=1,column=0,text_after=True), severity='error')\")"
   },
