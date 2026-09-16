@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-09-15T12:19:45",
+  "built_at": "2026-09-16T12:00:54",
   "reports": {
     "comprehensive": {
       "date": "2026-09-15",
@@ -7,7 +7,7 @@
       "source": "/Users/caowenli/sector_momentum_strategy/output_three_20260915_intraday"
     },
     "professional": {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "status": "盘中",
       "source": "/Users/caowenli/sector_momentum_strategy/output_professional_v10"
     },
@@ -32,5 +32,5 @@
       "source": "/Users/caowenli/sector_momentum_strategy/output_stock_agent/CYBERSECURITY_20260914"
     }
   },
-  "build_version": "20260915121945"
+  "build_version": "20260916120054"
 }
