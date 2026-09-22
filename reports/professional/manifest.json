@@ -1,16 +1,30 @@
 {
-  "date": "2026-09-21",
-  "quote_time_min": "15:00:00",
-  "quote_time_max": "15:00:00",
-  "version": "专业版_v10",
-  "sectors": 62,
-  "ranked_sectors": 61,
-  "top_candidate": "",
-  "history_errors": {
-    "000627": "股票 000627 所有数据源均失败: sina: RuntimeError(\"股票 000627（新浪） 拉取失败（重试 1 次）: JSONDecodeError('No value to decode', position=position_marker(offset=0,line=1,column=0,text_after=True), severity='error')\")"
-  },
-  "price_basis": "后续复权涨跌比例锚定原快照最后收盘；盘中按昨收比率衔接",
-  "quote_source": "https://qt.gtimg.cn",
-  "count_scope": "策略自定义成分股，不是全市场行业或概念板块全部股票",
-  "note": "数量均按策略自定义成分股统计，不是市场板块全部股票。涨停数量指快照时最新价等于行情源当日涨停价（不含仅盘中触及后打开）；缺少行情或涨停价时显示空缺，已知涨停数量仅统计可判定股票。盘中RS20排序；展示趋势、产业链去重与v10宽度过滤，未运行概率否决及账户交易状态，不等同买入信号。"
+  "strategy_id": "专业版_v10",
+  "start": "2024-10-01",
+  "end": "2026-09-21",
+  "ending_nav": 6469152.487316577,
+  "cumulative_return": 9.781920812194295,
+  "last_position": "现金",
+  "historical_through_0909_verified": true,
+  "intraday": false,
+  "probability_fallback_after": "2026-09-08",
+  "zero_fee_reproduced": true,
+  "files": [
+    {
+      "path": "/Users/caowenli/sector_momentum_strategy/output_professional_v10_20260921_close/input_snapshot.pkl",
+      "sha256": "2a14a878cc631cc6acb710e2dcc681d6c61e03db6f48242a26e3d4fd7bfcc635"
+    },
+    {
+      "path": "/Users/caowenli/sector_momentum_strategy/output_v6_risk_reentry_20260909/predictions_through_0908.csv",
+      "sha256": "3d4bc2661158be2cd9fdd3966232631a9479e79f9d42216408a00d2d846d053a"
+    },
+    {
+      "path": "/Users/caowenli/sector_momentum_strategy/专业版_v10.json",
+      "sha256": "8c820eb8927d101422070fbc5def41c7097fd2852e094a43658baa3b367fd0f6"
+    },
+    {
+      "path": "/tmp/update_prof_921.py",
+      "sha256": "fc3073e4b5f92d8a00c2f6c2e3a0c039f24936f80a891225417e09442ca43e94"
+    }
+  ]
 }
