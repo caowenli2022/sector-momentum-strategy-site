@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-18",
-  "quote_time_min": "11:58:57",
-  "quote_time_max": "11:59:56",
+  "date": "2026-09-21",
+  "quote_time_min": "15:00:00",
+  "quote_time_max": "15:00:00",
   "version": "专业版_v10",
   "sectors": 62,
-  "ranked_sectors": 59,
-  "top_candidate": "网络安全",
+  "ranked_sectors": 61,
+  "top_candidate": "",
   "history_errors": {
     "000627": "股票 000627 所有数据源均失败: sina: RuntimeError(\"股票 000627（新浪） 拉取失败（重试 1 次）: JSONDecodeError('No value to decode', position=position_marker(offset=0,line=1,column=0,text_after=True), severity='error')\")"
   },
