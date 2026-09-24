@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-09-23T17:51:26",
+  "built_at": "2026-09-24T16:08:37",
   "reports": {
     "comprehensive": {
       "date": "2026-09-15",
@@ -37,5 +37,5 @@
       "source": "/Users/caowenli/sector_momentum_strategy/output_stock_agent/CYBERSECURITY_20260914"
     }
   },
-  "build_version": "20260923175126"
+  "build_version": "20260924160837"
 }

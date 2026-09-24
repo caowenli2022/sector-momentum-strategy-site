@@ -1,9 +1,9 @@
 {
   "strategy_id": "专业版_v10",
   "start": "2024-10-01",
-  "end": "2026-09-23",
-  "ending_nav": 6407204.562813427,
-  "cumulative_return": 9.678674271355712,
+  "end": "2026-09-24",
+  "ending_nav": 6243752.667855684,
+  "cumulative_return": 9.40625444642614,
   "last_position": "网络安全",
   "historical_through_0909_verified": true,
   "intraday": false,
@@ -11,8 +11,8 @@
   "zero_fee_reproduced": true,
   "files": [
     {
-      "path": "/Users/caowenli/sector_momentum_strategy/output_professional_v10_20260923_close/input_snapshot.pkl",
-      "sha256": "26319c6dcaf09e7368bb883f16144a33a05470614de60a3e216796f1c4c9f2a2"
+      "path": "/Users/caowenli/sector_momentum_strategy/output_professional_v10_20260924_close/input_snapshot.pkl",
+      "sha256": "13a2c5d0147122181e3cdad56d264f947e69c49f6cdbdcfe5f0d0f6fcaf55170"
     },
     {
       "path": "/Users/caowenli/sector_momentum_strategy/output_v6_risk_reentry_20260909/predictions_through_0908.csv",
@@ -23,8 +23,8 @@
       "sha256": "8c820eb8927d101422070fbc5def41c7097fd2852e094a43658baa3b367fd0f6"
     },
     {
-      "path": "/tmp/update_prof_923.py",
-      "sha256": "20c1d49fb0cad8598d1306fd8d3158e3decd67539f397534890324d167ef108b"
+      "path": "/tmp/update_prof_924.py",
+      "sha256": "c8b79501b552c92977e279eb6bb9b80e605cb1945e60459f755710fbdf7f522d"
     }
   ]
 }
